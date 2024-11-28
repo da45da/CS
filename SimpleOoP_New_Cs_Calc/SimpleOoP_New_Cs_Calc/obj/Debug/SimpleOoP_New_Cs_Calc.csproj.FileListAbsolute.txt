@@ -1,0 +1,9 @@
+C:\Users\Damian\source\repos\SimpleOoP_New_Cs_Calc\SimpleOoP_New_Cs_Calc\bin\Debug\SimpleOoP_New_Cs_Calc.exe.config
+C:\Users\Damian\source\repos\SimpleOoP_New_Cs_Calc\SimpleOoP_New_Cs_Calc\bin\Debug\SimpleOoP_New_Cs_Calc.exe
+C:\Users\Damian\source\repos\SimpleOoP_New_Cs_Calc\SimpleOoP_New_Cs_Calc\bin\Debug\SimpleOoP_New_Cs_Calc.pdb
+C:\Users\Damian\source\repos\SimpleOoP_New_Cs_Calc\SimpleOoP_New_Cs_Calc\obj\Debug\SimpleOoP_New_Cs_Calc.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\SimpleOoP_New_Cs_Calc\SimpleOoP_New_Cs_Calc\obj\Debug\SimpleOoP_New_Cs_Calc.Properties.Resources.resources
+C:\Users\Damian\source\repos\SimpleOoP_New_Cs_Calc\SimpleOoP_New_Cs_Calc\obj\Debug\SimpleOoP_New_Cs_Calc.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\SimpleOoP_New_Cs_Calc\SimpleOoP_New_Cs_Calc\obj\Debug\SimpleOoP_New_Cs_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Damian\source\repos\SimpleOoP_New_Cs_Calc\SimpleOoP_New_Cs_Calc\obj\Debug\SimpleOoP_New_Cs_Calc.exe
+C:\Users\Damian\source\repos\SimpleOoP_New_Cs_Calc\SimpleOoP_New_Cs_Calc\obj\Debug\SimpleOoP_New_Cs_Calc.pdb

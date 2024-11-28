@@ -1,0 +1,11 @@
+C:\Users\Damian\source\repos\Toolbar\Toolbar\bin\Debug\Toolbar.exe.config
+C:\Users\Damian\source\repos\Toolbar\Toolbar\bin\Debug\Toolbar.exe
+C:\Users\Damian\source\repos\Toolbar\Toolbar\bin\Debug\Toolbar.pdb
+C:\Users\Damian\source\repos\Toolbar\Toolbar\obj\Debug\Toolbar.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\Toolbar\Toolbar\obj\Debug\Toolbar.Form1.resources
+C:\Users\Damian\source\repos\Toolbar\Toolbar\obj\Debug\Toolbar.Properties.Resources.resources
+C:\Users\Damian\source\repos\Toolbar\Toolbar\obj\Debug\Toolbar.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\Toolbar\Toolbar\obj\Debug\Toolbar.exe
+C:\Users\Damian\source\repos\Toolbar\Toolbar\obj\Debug\Toolbar.pdb
+C:\Users\Damian\source\repos\Toolbar\Toolbar\obj\Debug\Toolbar.Form2.resources
+C:\Users\Damian\source\repos\Toolbar\Toolbar\obj\Debug\Toolbar.csproj.CoreCompileInputs.cache

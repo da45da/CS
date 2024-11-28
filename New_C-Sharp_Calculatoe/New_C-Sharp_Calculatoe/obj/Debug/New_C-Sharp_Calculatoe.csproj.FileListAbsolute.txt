@@ -1,0 +1,10 @@
+C:\Users\Damian\source\repos\New_C-Sharp_Calculatoe\New_C-Sharp_Calculatoe\bin\Debug\New_C-Sharp_Calculatoe.exe.config
+C:\Users\Damian\source\repos\New_C-Sharp_Calculatoe\New_C-Sharp_Calculatoe\bin\Debug\New_C-Sharp_Calculatoe.exe
+C:\Users\Damian\source\repos\New_C-Sharp_Calculatoe\New_C-Sharp_Calculatoe\bin\Debug\New_C-Sharp_Calculatoe.pdb
+C:\Users\Damian\source\repos\New_C-Sharp_Calculatoe\New_C-Sharp_Calculatoe\obj\Debug\New_C-Sharp_Calculatoe.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\New_C-Sharp_Calculatoe\New_C-Sharp_Calculatoe\obj\Debug\New_C_Sharp_Calculatoe.Form1.resources
+C:\Users\Damian\source\repos\New_C-Sharp_Calculatoe\New_C-Sharp_Calculatoe\obj\Debug\New_C_Sharp_Calculatoe.Properties.Resources.resources
+C:\Users\Damian\source\repos\New_C-Sharp_Calculatoe\New_C-Sharp_Calculatoe\obj\Debug\New_C-Sharp_Calculatoe.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\New_C-Sharp_Calculatoe\New_C-Sharp_Calculatoe\obj\Debug\New_C-Sharp_Calculatoe.csproj.CoreCompileInputs.cache
+C:\Users\Damian\source\repos\New_C-Sharp_Calculatoe\New_C-Sharp_Calculatoe\obj\Debug\New_C-Sharp_Calculatoe.exe
+C:\Users\Damian\source\repos\New_C-Sharp_Calculatoe\New_C-Sharp_Calculatoe\obj\Debug\New_C-Sharp_Calculatoe.pdb
