@@ -1,0 +1,10 @@
+C:\Users\Damian\source\repos\Good_calculator\Good_calculator\bin\Debug\Good_calculator.exe.config
+C:\Users\Damian\source\repos\Good_calculator\Good_calculator\bin\Debug\Good_calculator.exe
+C:\Users\Damian\source\repos\Good_calculator\Good_calculator\bin\Debug\Good_calculator.pdb
+C:\Users\Damian\source\repos\Good_calculator\Good_calculator\obj\Debug\Good_calculator.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\Good_calculator\Good_calculator\obj\Debug\Good_calculator.Form1.resources
+C:\Users\Damian\source\repos\Good_calculator\Good_calculator\obj\Debug\Good_calculator.Properties.Resources.resources
+C:\Users\Damian\source\repos\Good_calculator\Good_calculator\obj\Debug\Good_calculator.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\Good_calculator\Good_calculator\obj\Debug\Good_calculator.exe
+C:\Users\Damian\source\repos\Good_calculator\Good_calculator\obj\Debug\Good_calculator.pdb
+C:\Users\Damian\source\repos\Good_calculator\Good_calculator\obj\Debug\Good_calculator.csproj.CoreCompileInputs.cache

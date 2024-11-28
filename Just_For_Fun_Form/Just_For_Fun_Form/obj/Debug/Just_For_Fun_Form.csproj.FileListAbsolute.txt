@@ -1,0 +1,10 @@
+C:\Users\Damian\source\repos\Just_For_Fun_Form\Just_For_Fun_Form\bin\Debug\Just_For_Fun_Form.exe.config
+C:\Users\Damian\source\repos\Just_For_Fun_Form\Just_For_Fun_Form\bin\Debug\Just_For_Fun_Form.exe
+C:\Users\Damian\source\repos\Just_For_Fun_Form\Just_For_Fun_Form\bin\Debug\Just_For_Fun_Form.pdb
+C:\Users\Damian\source\repos\Just_For_Fun_Form\Just_For_Fun_Form\obj\Debug\Just_For_Fun_Form.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\Just_For_Fun_Form\Just_For_Fun_Form\obj\Debug\Just_For_Fun_Form.Form1.resources
+C:\Users\Damian\source\repos\Just_For_Fun_Form\Just_For_Fun_Form\obj\Debug\Just_For_Fun_Form.Properties.Resources.resources
+C:\Users\Damian\source\repos\Just_For_Fun_Form\Just_For_Fun_Form\obj\Debug\Just_For_Fun_Form.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\Just_For_Fun_Form\Just_For_Fun_Form\obj\Debug\Just_For_Fun_Form.csproj.CoreCompileInputs.cache
+C:\Users\Damian\source\repos\Just_For_Fun_Form\Just_For_Fun_Form\obj\Debug\Just_For_Fun_Form.exe
+C:\Users\Damian\source\repos\Just_For_Fun_Form\Just_For_Fun_Form\obj\Debug\Just_For_Fun_Form.pdb
