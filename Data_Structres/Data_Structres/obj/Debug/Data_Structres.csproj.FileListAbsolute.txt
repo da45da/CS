@@ -1,0 +1,7 @@
+C:\Users\Damian\source\repos\Data_Structres\Data_Structres\bin\Debug\Data_Structres.exe.config
+C:\Users\Damian\source\repos\Data_Structres\Data_Structres\bin\Debug\Data_Structres.exe
+C:\Users\Damian\source\repos\Data_Structres\Data_Structres\bin\Debug\Data_Structres.pdb
+C:\Users\Damian\source\repos\Data_Structres\Data_Structres\obj\Debug\Data_Structres.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\Data_Structres\Data_Structres\obj\Debug\Data_Structres.csproj.CoreCompileInputs.cache
+C:\Users\Damian\source\repos\Data_Structres\Data_Structres\obj\Debug\Data_Structres.exe
+C:\Users\Damian\source\repos\Data_Structres\Data_Structres\obj\Debug\Data_Structres.pdb

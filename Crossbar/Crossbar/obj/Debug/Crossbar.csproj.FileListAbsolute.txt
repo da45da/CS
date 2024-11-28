@@ -1,0 +1,10 @@
+C:\Users\Damian\source\repos\Crossbar\Crossbar\bin\Debug\Crossbar.exe.config
+C:\Users\Damian\source\repos\Crossbar\Crossbar\bin\Debug\Crossbar.exe
+C:\Users\Damian\source\repos\Crossbar\Crossbar\bin\Debug\Crossbar.pdb
+C:\Users\Damian\source\repos\Crossbar\Crossbar\obj\Debug\Crossbar.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\Crossbar\Crossbar\obj\Debug\Crossbar.Form1.resources
+C:\Users\Damian\source\repos\Crossbar\Crossbar\obj\Debug\Crossbar.Properties.Resources.resources
+C:\Users\Damian\source\repos\Crossbar\Crossbar\obj\Debug\Crossbar.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\Crossbar\Crossbar\obj\Debug\Crossbar.exe
+C:\Users\Damian\source\repos\Crossbar\Crossbar\obj\Debug\Crossbar.pdb
+C:\Users\Damian\source\repos\Crossbar\Crossbar\obj\Debug\Crossbar.csproj.CoreCompileInputs.cache
