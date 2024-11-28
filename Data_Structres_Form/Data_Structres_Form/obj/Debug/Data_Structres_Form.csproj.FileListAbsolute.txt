@@ -1,0 +1,11 @@
+C:\Users\Damian\source\repos\Data_Structres_Form\Data_Structres_Form\obj\Debug\Data_Structres_Form.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\Data_Structres_Form\Data_Structres_Form\obj\Debug\Data_Structres_Form.Form1.resources
+C:\Users\Damian\source\repos\Data_Structres_Form\Data_Structres_Form\obj\Debug\Data_Structres_Form.Form2.resources
+C:\Users\Damian\source\repos\Data_Structres_Form\Data_Structres_Form\obj\Debug\Data_Structres_Form.Properties.Resources.resources
+C:\Users\Damian\source\repos\Data_Structres_Form\Data_Structres_Form\obj\Debug\Data_Structres_Form.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\Data_Structres_Form\Data_Structres_Form\obj\Debug\Data_Structres_Form.csproj.CoreCompileInputs.cache
+C:\Users\Damian\source\repos\Data_Structres_Form\Data_Structres_Form\bin\Debug\Data_Structres_Form.exe.config
+C:\Users\Damian\source\repos\Data_Structres_Form\Data_Structres_Form\bin\Debug\Data_Structres_Form.exe
+C:\Users\Damian\source\repos\Data_Structres_Form\Data_Structres_Form\bin\Debug\Data_Structres_Form.pdb
+C:\Users\Damian\source\repos\Data_Structres_Form\Data_Structres_Form\obj\Debug\Data_Structres_Form.exe
+C:\Users\Damian\source\repos\Data_Structres_Form\Data_Structres_Form\obj\Debug\Data_Structres_Form.pdb

@@ -1,0 +1,10 @@
+C:\Users\Damian\source\repos\Dem_GREPHICS(The_Squeakuel)\Dem_GREPHICS(The_Squeakuel)\bin\Debug\Dem_GREPHICS(The_Squeakuel).exe.config
+C:\Users\Damian\source\repos\Dem_GREPHICS(The_Squeakuel)\Dem_GREPHICS(The_Squeakuel)\bin\Debug\Dem_GREPHICS(The_Squeakuel).exe
+C:\Users\Damian\source\repos\Dem_GREPHICS(The_Squeakuel)\Dem_GREPHICS(The_Squeakuel)\bin\Debug\Dem_GREPHICS(The_Squeakuel).pdb
+C:\Users\Damian\source\repos\Dem_GREPHICS(The_Squeakuel)\Dem_GREPHICS(The_Squeakuel)\obj\Debug\Dem_GREPHICS(The_Squeakuel).csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\Dem_GREPHICS(The_Squeakuel)\Dem_GREPHICS(The_Squeakuel)\obj\Debug\Dem_GREPHICS_The_Squeakuel_.Form1.resources
+C:\Users\Damian\source\repos\Dem_GREPHICS(The_Squeakuel)\Dem_GREPHICS(The_Squeakuel)\obj\Debug\Dem_GREPHICS_The_Squeakuel_.Properties.Resources.resources
+C:\Users\Damian\source\repos\Dem_GREPHICS(The_Squeakuel)\Dem_GREPHICS(The_Squeakuel)\obj\Debug\Dem_GREPHICS(The_Squeakuel).csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\Dem_GREPHICS(The_Squeakuel)\Dem_GREPHICS(The_Squeakuel)\obj\Debug\Dem_GREPHICS(The_Squeakuel).exe
+C:\Users\Damian\source\repos\Dem_GREPHICS(The_Squeakuel)\Dem_GREPHICS(The_Squeakuel)\obj\Debug\Dem_GREPHICS(The_Squeakuel).pdb
+C:\Users\Damian\source\repos\Dem_GREPHICS(The_Squeakuel)\Dem_GREPHICS(The_Squeakuel)\obj\Debug\Dem_GREPHICS(The_Squeakuel).csproj.CoreCompileInputs.cache

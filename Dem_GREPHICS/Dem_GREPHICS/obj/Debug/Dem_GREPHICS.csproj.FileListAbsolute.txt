@@ -1,0 +1,9 @@
+C:\Users\Damian\source\repos\Dem_GREPHICS\Dem_GREPHICS\bin\Debug\Dem_GREPHICS.exe.config
+C:\Users\Damian\source\repos\Dem_GREPHICS\Dem_GREPHICS\bin\Debug\Dem_GREPHICS.exe
+C:\Users\Damian\source\repos\Dem_GREPHICS\Dem_GREPHICS\bin\Debug\Dem_GREPHICS.pdb
+C:\Users\Damian\source\repos\Dem_GREPHICS\Dem_GREPHICS\obj\Debug\Dem_GREPHICS.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\Dem_GREPHICS\Dem_GREPHICS\obj\Debug\Dem_GREPHICS.Form1.resources
+C:\Users\Damian\source\repos\Dem_GREPHICS\Dem_GREPHICS\obj\Debug\Dem_GREPHICS.Properties.Resources.resources
+C:\Users\Damian\source\repos\Dem_GREPHICS\Dem_GREPHICS\obj\Debug\Dem_GREPHICS.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\Dem_GREPHICS\Dem_GREPHICS\obj\Debug\Dem_GREPHICS.exe
+C:\Users\Damian\source\repos\Dem_GREPHICS\Dem_GREPHICS\obj\Debug\Dem_GREPHICS.pdb
