@@ -1,0 +1,9 @@
+C:\Users\Damian\source\repos\Big_Chungus_Assignment\Big_Chungus_Assignment\bin\Debug\Big_Chungus_Assignment.exe.config
+C:\Users\Damian\source\repos\Big_Chungus_Assignment\Big_Chungus_Assignment\bin\Debug\Big_Chungus_Assignment.exe
+C:\Users\Damian\source\repos\Big_Chungus_Assignment\Big_Chungus_Assignment\bin\Debug\Big_Chungus_Assignment.pdb
+C:\Users\Damian\source\repos\Big_Chungus_Assignment\Big_Chungus_Assignment\obj\Debug\Big_Chungus_Assignment.csprojAssemblyReference.cache
+C:\Users\Damian\source\repos\Big_Chungus_Assignment\Big_Chungus_Assignment\obj\Debug\Big_Chungus_Assignment.Form1.resources
+C:\Users\Damian\source\repos\Big_Chungus_Assignment\Big_Chungus_Assignment\obj\Debug\Big_Chungus_Assignment.Properties.Resources.resources
+C:\Users\Damian\source\repos\Big_Chungus_Assignment\Big_Chungus_Assignment\obj\Debug\Big_Chungus_Assignment.csproj.GenerateResource.cache
+C:\Users\Damian\source\repos\Big_Chungus_Assignment\Big_Chungus_Assignment\obj\Debug\Big_Chungus_Assignment.exe
+C:\Users\Damian\source\repos\Big_Chungus_Assignment\Big_Chungus_Assignment\obj\Debug\Big_Chungus_Assignment.pdb

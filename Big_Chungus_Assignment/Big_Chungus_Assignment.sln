@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Big_Chungus_Assignment", "Big_Chungus_Assignment\Big_Chungus_Assignment.csproj", "{F813F5EC-57B8-47A4-BFF6-66A8FA7EB550}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3B2C1E4D-8760-4A00-B0A8-BE6CEC19695B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F813F5EC-57B8-47A4-BFF6-66A8FA7EB550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F813F5EC-57B8-47A4-BFF6-66A8FA7EB550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F813F5EC-57B8-47A4-BFF6-66A8FA7EB550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F813F5EC-57B8-47A4-BFF6-66A8FA7EB550}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FD58391-9949-4C52-B00F-0F178C9BAA4E}
+	EndGlobalSection
+EndGlobal
